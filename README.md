@@ -1,4 +1,4 @@
-Write a program that expects an integer as input and outputs the integer in word form. For example:
+#Write a program that expects an integer as input and outputs the integer in word form. For example:
 
 0 = zero
 
